@@ -1,5 +1,8 @@
 # Image Caption Generator using CNN + LSTM
 
+<img width="1695" height="801" alt="model" src="https://github.com/user-attachments/assets/bd77ec7b-7795-4d18-8b20-b2573ed9fe7c" />
+
+
 ## 📖 Project Overview
 
 This project focuses on automatically generating descriptive captions for images using deep learning. The system combines:
